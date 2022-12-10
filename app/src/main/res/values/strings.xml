@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">Info flamengo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="sobreFlamengo">
+        O Clube de Regatas do Flamengo (mais conhecido simplesmente como Flamengo, e popularmente pelos apelidos de Mengo, Mengão e Fla) é uma agremiação poliesportiva brasileira com sede na cidade do Rio de Janeiro, capital do estado de mesmo nome. Fundado no bairro do Flamengo, para disputas do esporte remo em 17 de novembro de 1895, tornou-se um dos clubes mais bem-sucedidos e populares do esporte brasileiro, especialmente pelo futebol. Tem como suas cores tradicionais o vermelho e o preto e como seus maiores rivais esportivos o Vasco da Gama, o Fluminense e o Botafogo.
+    </string>
+
+    <string name="vitoriaFLa">
+        Vitorias do flamengo
+    </string>
+
+    <string name="titulos">
+        Titulos: 148
+    </string>
+
+    <string name="todosTitulos">
+        Alguns titulos: \nCampeonato carioca: 36\nTaça guanabara: 22\nBrasileirão 8\nCopa do brasil 3
+        \nMundial 1 \nLibertadores 2\nSuper copa do brasil 2\n Copa dos campeões 1\nRecopa Sul-Americana 1\nCopa Mercosul 1
+        \nCopa ouro Sul-americana 1
+    </string>
+
+    <string name="Titulo1">
+        Negociação bem sucedida
+    </string>
+
+    <string name="descricao1">
+         O flamengo contrata o jogador "Neymar jr" por R$....
+    </string>
+
+    <string name="titulo2">
+        "O estadio mas grande do brasil"
+    </string>
+
+    <string name="descricao2">
+        O plano do fla e ter 100 mil pessoas no estadio.
+    </string>
+
+    <string name="titulo3">
+        "Maior nação do mundo"
+    </string>
+
+    <string name="descricao3">
+        A maior torcida do mundo e a do flamengo.
+    </string>
+
+    <string name="titulo4">
+        "Flamengo vs Palmeiras"
+    </string>
+
+    <string name="descricao4">
+        A maior rivalidade dos ultimos tempos.
+    </string>
+
+    <string name="titulo5">
+       Em busca da "Libertadores"
+    </string>
+
+    <string name="descricao5">
+       A semifinal da libertadores esta bem perto.
+    </string>
+
+
+    <string name="titulo6">
+        Flamengo tem ano bilhionario
+    </string>
+
+    <string name="descricao6">
+        O flamengo lucra 5 bilhões em 2023
+    </string>
+
+    <string name="titulo7">
+        O mosaico do flamengo
+    </string>
+
+    <string name="descricao7">
+        O atletico - MG não aguentou o flamengo
+    </string>
+
+</resources>

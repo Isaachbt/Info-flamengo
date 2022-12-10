@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Noticias"
+        android:id="@+id/menu_noticias"
+        android:icon="@drawable/ic_feed"
+        />
+
+
+    <item android:title="Sobre"
+        android:id="@+id/menu_sobre"
+        android:icon="@drawable/ic_info"/>
+
+    <item android:title="Vitorias"
+        android:id="@+id/menu_vitorias"
+        android:icon="@drawable/ic_baseline_where_to_vote_24"/>
+</menu>
